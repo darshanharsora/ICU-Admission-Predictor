@@ -17,3 +17,6 @@ The dataset is imbalanced, so we will implement SMOTE to overcome this problem. 
 
 ## Results
 Three algorithms were separately trained and the best model in terms of evaluation metrics was Random Forest with accuracy of 83.4%. Random Forest has a good True Positivity Rate, which results in a goof F1 score. KNN gave accuracy of 76.5%, with precision score of 71.3%, recall 89.2% which is acceptable. SVM had least accuracy of 66.9%, precision 64.4%, recall 76.8% and lowest F1 score of 70.1%.
+
+## Author
+-Darshan Harsora
